@@ -3,3 +3,4 @@
 0496. ✅ test: add integration test for /submit endpoint
 0582. ✨ feat: add export to CSV option
 0017. ✅ test: mock database connection in test suite
+0612. ✅ test: test user registration edge cases
