@@ -6,3 +6,4 @@
 0612. ✅ test: test user registration edge cases
 0732. ♻️ chore: add GitHub actions badge
 0789. ✨ feat: create admin dashboard
+0446. 🎨 style: apply consistent indentation
