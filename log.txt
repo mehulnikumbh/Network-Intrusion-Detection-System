@@ -23,3 +23,4 @@
 0951. 🎨 style: rename variables for clarity
 0592. 📚 docs: add API usage examples
 0538. 🐛 fix: fix broken CSS in mobile view
+0233. 🚀 perf: lazy-load components
