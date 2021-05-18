@@ -29,3 +29,4 @@
 0192. ✨ feat: enable dark mode toggle
 0510. 🎨 style: rename variables for clarity
 0049. 🐛 fix: handle 500 error in quiz API
+0016. 🎨 style: apply consistent indentation
