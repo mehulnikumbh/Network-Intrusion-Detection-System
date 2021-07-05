@@ -36,3 +36,4 @@
 0773. 📚 docs: document token refresh logic
 0492. 🎨 style: remove trailing whitespace
 0451. ✨ feat: support email verification
+0300. ✨ feat: add export to CSV option
