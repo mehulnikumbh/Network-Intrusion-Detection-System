@@ -38,3 +38,4 @@
 0451. ✨ feat: support email verification
 0300. ✨ feat: add export to CSV option
 0842. 🎨 style: remove trailing whitespace
+0101. 📚 docs: clarify environment setup
