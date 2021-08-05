@@ -45,3 +45,4 @@
 0793. 📚 docs: clarify environment setup
 0021. ✨ feat: support email verification
 0563. 📚 docs: clarify environment setup
+0106. 🎨 style: reformat files with black
