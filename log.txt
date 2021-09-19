@@ -51,3 +51,4 @@
 0289. 🐛 fix: resolve issue with date parsing
 0219. ✅ test: increase coverage on auth module
 0586. 🎨 style: remove trailing whitespace
+0573. ✅ test: add integration test for /submit endpoint
