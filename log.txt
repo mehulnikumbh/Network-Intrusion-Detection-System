@@ -56,3 +56,4 @@
 0901. ✨ feat: add user authentication
 0750. 🎨 style: apply consistent indentation
 0648. ♻️ chore: bump dependencies
+0114. ♻️ chore: update .gitignore
