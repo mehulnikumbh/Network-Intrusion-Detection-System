@@ -58,3 +58,4 @@
 0648. ♻️ chore: bump dependencies
 0114. ♻️ chore: update .gitignore
 0032. 🎨 style: apply consistent indentation
+0129. 🔧 refactor: organize models into subfolders
