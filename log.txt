@@ -76,3 +76,4 @@
 0031. 📚 docs: document token refresh logic
 0528. ♻️ chore: clean up unused files
 0657. 🎨 style: standardize quote style
+0273. 🚀 perf: reduce image load time
