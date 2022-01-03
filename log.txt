@@ -81,3 +81,4 @@
 0517. ✅ test: mock database connection in test suite
 0349. ✅ test: increase coverage on auth module
 0978. 🐛 fix: prevent crash on empty input
+0662. ♻️ chore: clean up unused files
