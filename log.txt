@@ -87,3 +87,4 @@
 0384. 📚 docs: clarify environment setup
 0483. 📚 docs: update README with setup steps
 0205. 📚 docs: update README with setup steps
+0363. 📚 docs: clarify environment setup
