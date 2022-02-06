@@ -89,3 +89,4 @@
 0205. 📚 docs: update README with setup steps
 0363. 📚 docs: clarify environment setup
 0570. 🎨 style: apply consistent indentation
+0976. ✨ feat: implement quiz timer feature
