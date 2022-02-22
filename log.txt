@@ -96,3 +96,4 @@
 0770. ♻️ chore: rename env.example
 0795. 📚 docs: update README with setup steps
 0548. 📚 docs: write FAQ section
+0708. ✅ test: add integration test for /submit endpoint
