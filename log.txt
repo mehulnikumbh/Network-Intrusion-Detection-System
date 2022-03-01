@@ -99,3 +99,4 @@
 0708. ✅ test: add integration test for /submit endpoint
 0676. 🐛 fix: prevent crash on empty input
 0937. 🐛 fix: handle 500 error in quiz API
+0820. 📚 docs: add API usage examples
