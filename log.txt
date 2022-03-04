@@ -101,3 +101,4 @@
 0937. 🐛 fix: handle 500 error in quiz API
 0820. 📚 docs: add API usage examples
 0576. ♻️ chore: update .gitignore
+0551. 📚 docs: write FAQ section
