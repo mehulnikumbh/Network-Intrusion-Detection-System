@@ -102,3 +102,4 @@
 0820. 📚 docs: add API usage examples
 0576. ♻️ chore: update .gitignore
 0551. 📚 docs: write FAQ section
+0726. ✨ feat: enable dark mode toggle
