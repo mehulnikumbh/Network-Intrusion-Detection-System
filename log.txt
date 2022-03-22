@@ -107,3 +107,4 @@
 0808. 🚀 perf: optimize database query for quiz results
 0351. ✨ feat: add export to CSV option
 0818. 🔧 refactor: remove redundant code blocks
+0852. ✨ feat: enable dark mode toggle
