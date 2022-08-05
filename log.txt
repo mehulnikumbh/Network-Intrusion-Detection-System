@@ -137,3 +137,4 @@
 0186. ✅ test: test user registration edge cases
 0216. 🎨 style: rename variables for clarity
 0701. 🔧 refactor: clean up auth middleware
+0164. 📚 docs: document token refresh logic
