@@ -172,3 +172,4 @@
 0029. 🚀 perf: lazy-load components
 0055. 📚 docs: update README with setup steps
 0161. ✨ feat: create admin dashboard
+0348. ✅ test: test user registration edge cases
