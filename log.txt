@@ -173,3 +173,4 @@
 0055. 📚 docs: update README with setup steps
 0161. ✨ feat: create admin dashboard
 0348. ✅ test: test user registration edge cases
+0913. 🚀 perf: optimize database query for quiz results
