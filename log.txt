@@ -178,3 +178,4 @@
 0927. ♻️ chore: bump dependencies
 0966. 📚 docs: improve code comments in utils
 0868. ✅ test: add unit test for quiz service
+0725. 🚀 perf: lazy-load components
