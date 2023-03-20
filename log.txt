@@ -189,3 +189,4 @@
 0695. ✨ feat: create admin dashboard
 0487. 🎨 style: reformat files with black
 0260. ✨ feat: create admin dashboard
+0561. 📚 docs: write FAQ section
