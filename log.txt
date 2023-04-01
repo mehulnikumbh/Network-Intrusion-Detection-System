@@ -190,3 +190,4 @@
 0487. 🎨 style: reformat files with black
 0260. ✨ feat: create admin dashboard
 0561. 📚 docs: write FAQ section
+0544. 🔧 refactor: organize models into subfolders
