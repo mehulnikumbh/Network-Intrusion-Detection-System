@@ -194,3 +194,4 @@
 0015. ✨ feat: implement quiz timer feature
 0694. 🎨 style: rename variables for clarity
 0448. 🐛 fix: correct typo in registration form
+0650. ✅ test: add unit test for quiz service
