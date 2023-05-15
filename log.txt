@@ -197,3 +197,4 @@
 0650. ✅ test: add unit test for quiz service
 0292. 📚 docs: clarify environment setup
 0636. ✅ test: increase coverage on auth module
+0320. 📚 docs: update README with setup steps
