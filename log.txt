@@ -203,3 +203,4 @@
 0974. ✨ feat: add export to CSV option
 0338. ♻️ chore: add GitHub actions badge
 0879. 🎨 style: standardize quote style
+0253. 📚 docs: update README with setup steps
