@@ -205,3 +205,4 @@
 0879. 🎨 style: standardize quote style
 0253. 📚 docs: update README with setup steps
 0337. 📚 docs: document token refresh logic
+0484. 🐛 fix: handle 500 error in quiz API
