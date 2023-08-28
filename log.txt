@@ -216,3 +216,4 @@
 0040. 🔧 refactor: clean up auth middleware
 0986. 📚 docs: document token refresh logic
 0146. 🎨 style: apply consistent indentation
+0628. ♻️ chore: add GitHub actions badge
