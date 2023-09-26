@@ -226,3 +226,4 @@
 0798. 🚀 perf: reduce image load time
 0488. ♻️ chore: add GitHub actions badge
 0155. ✨ feat: create admin dashboard
+0353. ♻️ chore: rename env.example
