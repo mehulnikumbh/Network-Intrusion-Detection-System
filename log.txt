@@ -227,3 +227,4 @@
 0488. ♻️ chore: add GitHub actions badge
 0155. ✨ feat: create admin dashboard
 0353. ♻️ chore: rename env.example
+0189. 📚 docs: clarify environment setup
