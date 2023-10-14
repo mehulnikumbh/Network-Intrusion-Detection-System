@@ -233,3 +233,4 @@
 0377. ✨ feat: add user authentication
 0705. 🔧 refactor: refactor quiz grading logic
 0922. 📚 docs: write FAQ section
+0297. 🎨 style: remove trailing whitespace
