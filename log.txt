@@ -240,3 +240,4 @@
 0590. 🐛 fix: fix null pointer exception on login
 0472. 🐛 fix: fix null pointer exception on login
 0194. 🎨 style: standardize quote style
+0939. 📚 docs: update README with setup steps
