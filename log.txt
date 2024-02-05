@@ -255,3 +255,4 @@
 0225. 🚀 perf: reduce image load time
 0250. 📚 docs: update README with setup steps
 0684. 🚀 perf: reduce image load time
+0065. ✅ test: add integration test for /submit endpoint
