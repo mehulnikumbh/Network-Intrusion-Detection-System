@@ -260,3 +260,4 @@
 0077. ♻️ chore: rename env.example
 0830. 🎨 style: apply consistent indentation
 0764. ✨ feat: add user authentication
+0121. ✨ feat: support email verification
