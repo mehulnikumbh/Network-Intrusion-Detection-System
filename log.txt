@@ -262,3 +262,4 @@
 0764. ✨ feat: add user authentication
 0121. ✨ feat: support email verification
 0280. ✅ test: add integration test for /submit endpoint
+0775. 🐛 fix: fix null pointer exception on login
