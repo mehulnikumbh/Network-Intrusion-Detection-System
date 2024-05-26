@@ -287,3 +287,4 @@
 0447. ♻️ chore: bump dependencies
 0823. ✨ feat: add user authentication
 0860. 🔧 refactor: organize models into subfolders
+0198. 📚 docs: clarify environment setup
