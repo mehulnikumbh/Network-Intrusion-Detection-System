@@ -298,3 +298,4 @@
 0758. 🚀 perf: optimize database query for quiz results
 0073. 🔧 refactor: split large controller into smaller functions
 0228. 🔧 refactor: remove redundant code blocks
+0053. ✅ test: increase coverage on auth module
