@@ -300,3 +300,4 @@
 0228. 🔧 refactor: remove redundant code blocks
 0053. ✅ test: increase coverage on auth module
 0287. 📚 docs: write FAQ section
+0934. ✨ feat: support email verification
