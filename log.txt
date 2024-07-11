@@ -301,3 +301,4 @@
 0053. ✅ test: increase coverage on auth module
 0287. 📚 docs: write FAQ section
 0934. ✨ feat: support email verification
+0322. 🔧 refactor: split large controller into smaller functions
