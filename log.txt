@@ -303,3 +303,4 @@
 0934. ✨ feat: support email verification
 0322. 🔧 refactor: split large controller into smaller functions
 0388. 🎨 style: reformat files with black
+0699. 🎨 style: standardize quote style
