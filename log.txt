@@ -304,3 +304,4 @@
 0322. 🔧 refactor: split large controller into smaller functions
 0388. 🎨 style: reformat files with black
 0699. 🎨 style: standardize quote style
+0673. 🐛 fix: correct typo in registration form
