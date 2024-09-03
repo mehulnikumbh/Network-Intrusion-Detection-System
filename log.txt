@@ -316,3 +316,4 @@
 0241. 📚 docs: add API usage examples
 0739. 🎨 style: remove trailing whitespace
 0894. ✅ test: add integration test for /submit endpoint
+0151. ✅ test: add unit test for quiz service
