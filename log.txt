@@ -318,3 +318,4 @@
 0894. ✅ test: add integration test for /submit endpoint
 0151. ✅ test: add unit test for quiz service
 0140. 🐛 fix: handle 500 error in quiz API
+0160. ♻️ chore: bump dependencies
