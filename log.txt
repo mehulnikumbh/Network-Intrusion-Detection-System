@@ -328,3 +328,4 @@
 0051. ✨ feat: enable dark mode toggle
 0224. 🐛 fix: fix broken CSS in mobile view
 0829. 🔧 refactor: organize models into subfolders
+0208. 🔧 refactor: clean up auth middleware
