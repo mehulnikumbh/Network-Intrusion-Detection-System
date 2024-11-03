@@ -332,3 +332,4 @@
 0840. 🔧 refactor: refactor quiz grading logic
 0434. 📚 docs: document token refresh logic
 0610. 🚀 perf: lazy-load components
+0698. 🐛 fix: handle 500 error in quiz API
