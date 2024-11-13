@@ -334,3 +334,4 @@
 0610. 🚀 perf: lazy-load components
 0698. 🐛 fix: handle 500 error in quiz API
 0468. 📚 docs: update README with setup steps
+0171. 🐛 fix: fix broken CSS in mobile view
