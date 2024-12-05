@@ -343,3 +343,4 @@
 0247. 🎨 style: apply consistent indentation
 0118. 🚀 perf: reduce image load time
 0014. 🔧 refactor: remove redundant code blocks
+0359. 🔧 refactor: clean up auth middleware
