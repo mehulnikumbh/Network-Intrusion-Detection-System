@@ -347,3 +347,4 @@
 0933. 📚 docs: clarify environment setup
 0019. ✨ feat: enable dark mode toggle
 0845. 🚀 perf: cache repeated calculations
+0159. 🚀 perf: lazy-load components
