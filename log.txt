@@ -402,3 +402,4 @@
 0025. 🚀 perf: optimize database query for quiz results
 0942. ✅ test: increase coverage on auth module
 0624. ✅ test: add unit test for quiz service
+0029. 🚀 perf: lazy-load components
