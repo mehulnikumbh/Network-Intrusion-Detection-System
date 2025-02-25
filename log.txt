@@ -414,3 +414,4 @@
 0325. 🎨 style: rename variables for clarity
 0825. 🔧 refactor: split large controller into smaller functions
 0682. ♻️ chore: rename env.example
+0901. ✨ feat: add user authentication
