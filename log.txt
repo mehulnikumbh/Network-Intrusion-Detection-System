@@ -424,3 +424,4 @@
 0391. 🐛 fix: fix null pointer exception on login
 0753. 🔧 refactor: remove redundant code blocks
 0371. ✅ test: add integration test for /submit endpoint
+0707. 🎨 style: apply consistent indentation
