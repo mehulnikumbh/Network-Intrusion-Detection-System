@@ -427,3 +427,4 @@
 0707. 🎨 style: apply consistent indentation
 0144. ✅ test: increase coverage on auth module
 0743. 🎨 style: apply consistent indentation
+0991. ♻️ chore: clean up unused files
