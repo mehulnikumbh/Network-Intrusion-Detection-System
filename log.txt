@@ -361,3 +361,4 @@
 0456. 🚀 perf: optimize database query for quiz results
 0515. 🚀 perf: optimize database query for quiz results
 0533. ♻️ chore: add GitHub actions badge
+0402. 🎨 style: reformat files with black
