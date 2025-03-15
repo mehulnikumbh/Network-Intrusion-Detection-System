@@ -429,3 +429,4 @@
 0743. 🎨 style: apply consistent indentation
 0991. ♻️ chore: clean up unused files
 0945. ♻️ chore: add GitHub actions badge
+0420. 🚀 perf: reduce image load time
