@@ -363,3 +363,4 @@
 0533. ♻️ chore: add GitHub actions badge
 0402. 🎨 style: reformat files with black
 0622. 🎨 style: apply consistent indentation
+0967. ♻️ chore: add GitHub actions badge
