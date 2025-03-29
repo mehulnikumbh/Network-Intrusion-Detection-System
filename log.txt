@@ -366,3 +366,4 @@
 0967. ♻️ chore: add GitHub actions badge
 0135. ✅ test: test user registration edge cases
 0167. 🚀 perf: reduce image load time
+0756. ✨ feat: support email verification
