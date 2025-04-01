@@ -367,3 +367,4 @@
 0135. ✅ test: test user registration edge cases
 0167. 🚀 perf: reduce image load time
 0756. ✨ feat: support email verification
+0277. 🎨 style: standardize quote style
