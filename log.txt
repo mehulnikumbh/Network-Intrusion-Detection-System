@@ -444,3 +444,4 @@
 0062. ♻️ chore: update .gitignore
 0543. ✨ feat: support email verification
 0294. 🐛 fix: prevent crash on empty input
+0896. 🚀 perf: reduce image load time
