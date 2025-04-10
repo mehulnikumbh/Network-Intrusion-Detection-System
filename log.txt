@@ -449,3 +449,4 @@
 0108. 🎨 style: remove trailing whitespace
 0645. 🐛 fix: resolve issue with date parsing
 0627. 📚 docs: document token refresh logic
+0192. ✨ feat: enable dark mode toggle
