@@ -370,3 +370,4 @@
 0277. 🎨 style: standardize quote style
 0093. ✅ test: add unit test for quiz service
 0613. 🐛 fix: prevent crash on empty input
+0215. 🎨 style: reformat files with black
