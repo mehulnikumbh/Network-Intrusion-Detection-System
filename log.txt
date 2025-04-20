@@ -454,3 +454,4 @@
 0817. 🔧 refactor: remove redundant code blocks
 0225. 🚀 perf: reduce image load time
 0770. ♻️ chore: rename env.example
+0262. 🎨 style: remove trailing whitespace
