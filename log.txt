@@ -457,3 +457,4 @@
 0262. 🎨 style: remove trailing whitespace
 0161. ✨ feat: create admin dashboard
 0838. 🎨 style: standardize quote style
+0393. 🚀 perf: lazy-load components
