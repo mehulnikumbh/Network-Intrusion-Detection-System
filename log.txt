@@ -459,3 +459,4 @@
 0838. 🎨 style: standardize quote style
 0393. 🚀 perf: lazy-load components
 0909. 🔧 refactor: organize models into subfolders
+0546. 🐛 fix: fix null pointer exception on login
