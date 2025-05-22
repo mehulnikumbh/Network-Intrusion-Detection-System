@@ -481,3 +481,4 @@
 0761. ✅ test: add unit test for quiz service
 0449. ✅ test: add unit test for quiz service
 0970. ♻️ chore: update .gitignore
+0223. 🔧 refactor: remove redundant code blocks
