@@ -483,3 +483,4 @@
 0970. ♻️ chore: update .gitignore
 0223. 🔧 refactor: remove redundant code blocks
 0159. 🚀 perf: lazy-load components
+0566. 📚 docs: write FAQ section
