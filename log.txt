@@ -484,3 +484,4 @@
 0223. 🔧 refactor: remove redundant code blocks
 0159. 🚀 perf: lazy-load components
 0566. 📚 docs: write FAQ section
+0565. ♻️ chore: add GitHub actions badge
