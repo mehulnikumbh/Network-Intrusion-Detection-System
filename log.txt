@@ -493,3 +493,4 @@
 0284. ✨ feat: implement quiz timer feature
 0933. 📚 docs: clarify environment setup
 0304. 🔧 refactor: remove redundant code blocks
+0476. 🚀 perf: reduce image load time
