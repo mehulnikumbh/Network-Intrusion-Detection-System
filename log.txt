@@ -503,3 +503,4 @@
 0158. 📚 docs: clarify environment setup
 0528. ♻️ chore: clean up unused files
 0317. ✅ test: test user registration edge cases
+0296. 🔧 refactor: organize models into subfolders
