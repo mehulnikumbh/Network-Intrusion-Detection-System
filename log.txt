@@ -505,3 +505,4 @@
 0317. ✅ test: test user registration edge cases
 0296. 🔧 refactor: organize models into subfolders
 0606. 📚 docs: improve code comments in utils
+0772. 🐛 fix: fix null pointer exception on login
