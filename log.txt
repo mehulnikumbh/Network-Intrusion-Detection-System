@@ -387,3 +387,4 @@
 0950. 🎨 style: reformat files with black
 0600. 🐛 fix: prevent crash on empty input
 0319. 🐛 fix: handle 500 error in quiz API
+0865. ♻️ chore: add GitHub actions badge
