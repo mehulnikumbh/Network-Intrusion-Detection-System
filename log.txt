@@ -522,3 +522,4 @@
 0690. 🚀 perf: lazy-load components
 0976. ✨ feat: implement quiz timer feature
 0120. ✅ test: add integration test for /submit endpoint
+0621. 🔧 refactor: clean up auth middleware
