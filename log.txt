@@ -532,3 +532,4 @@
 0726. ✨ feat: enable dark mode toggle
 0890. 🔧 refactor: organize models into subfolders
 0875. ✅ test: increase coverage on auth module
+0136. 🚀 perf: lazy-load components
