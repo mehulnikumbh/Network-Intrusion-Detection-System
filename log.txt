@@ -536,3 +536,4 @@
 0414. 🔧 refactor: remove redundant code blocks
 0051. ✨ feat: enable dark mode toggle
 0435. ✅ test: add unit test for quiz service
+0115. 🚀 perf: reduce image load time
