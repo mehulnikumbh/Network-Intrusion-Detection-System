@@ -395,3 +395,4 @@
 0623. 🎨 style: standardize quote style
 0191. 🔧 refactor: refactor quiz grading logic
 0658. 🎨 style: rename variables for clarity
+0549. ✨ feat: enable dark mode toggle
