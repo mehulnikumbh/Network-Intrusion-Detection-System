@@ -397,3 +397,4 @@
 0658. 🎨 style: rename variables for clarity
 0549. ✨ feat: enable dark mode toggle
 0682. ♻️ chore: rename env.example
+0971. 🎨 style: standardize quote style
